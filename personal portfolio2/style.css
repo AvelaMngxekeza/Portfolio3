@@ -1,0 +1,102 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #093a3e;
+}
+
+
+
+.logo {
+    position: relative;
+    margin-left: 50px; 
+    margin-top: 50px; 
+}
+
+.nav {
+    position: relative;
+    margin-left: 580px;
+    margin-top: -60px;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item {
+    margin: 5 100px;
+}
+
+.name {
+    position: relative;
+    margin-left: 700px;
+    margin-top: 250px;
+
+}
+
+.span {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.h2 {
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+}
+
+.p {
+    font-size: 15px;
+    font-weight: lighter;
+    color: white; 
+}
+
+
+.button {
+    height: 37px;
+    width: 262px;
+    background-color: #3AAFB9;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.buttontext {
+    color: white;
+}
+
+.page2 {
+    position: relative;
+    margin-top: 300px;
+    margin-left: 700px;
+    font-family: Montserrat;
+    font-weight: bolder;
+    color: #3AAFB9;
+}
+
+.flip {
+    position: relative;
+    margin-top: 300px;
+    margin-left: 700px;
+    font-family: Montserrat;
+    font-weight: bolder;
+    color: #3AAFB9;
+    transform: scaleX(-50);
+}
+
+.image {
+    position: relative;
+    margin-left: 570px;
+    margin-top: 300px;
+}
+
+.about {
+    position: relative;
+    margin-left: 500px;
+}
